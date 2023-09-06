@@ -14,3 +14,4 @@
  - [] 系统告警
  - [] Dockerfile 集成demo
  - [] github action 集成 CI/CD
+ - [] git hook (提交检查、 push 检查)
